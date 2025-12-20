@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import random
 
-iterasyon_sayisi = 500000  
+iterasyon_sayisi = 500000
 x, y = 0, 0
 
 # Koordinatları tutacak listeler

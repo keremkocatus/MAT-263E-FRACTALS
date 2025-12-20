@@ -6,7 +6,7 @@ DERINLIK = 4
 def koch_ciz(p1, p2, derinlik):
     if derinlik == 0:
         # Base Case
-        plt.plot([p1[0], p2[0]], [p1[1], p2[1]], color='cyan', lw=1)
+        plt.plot([p1[0], p2[0]], [p1[1], p2[1]], color='black', lw=1)
         return
 
     # Şimdiki çizginin vektör farkları
