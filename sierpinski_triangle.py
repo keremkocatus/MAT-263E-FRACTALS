@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import random
 
-iterasyon_sayisi = 100000
+iterasyon_sayisi = 500000
 
 # 1. Üçgenin Köşelerini Tanımla (x, y)
 # Sol alt, Sağ alt ve Tepe noktası

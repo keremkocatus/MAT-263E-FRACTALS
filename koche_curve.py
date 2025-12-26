@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-DERINLIK = 4 
+DERINLIK = 3
 
 # Recursive Fonksiyon
 def koch_ciz(p1, p2, derinlik):
